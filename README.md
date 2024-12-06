@@ -6,7 +6,7 @@ Data Engineering Student
 
 I am a Year 1 student in the Bachelor of Computer Science (Data Engineering) with Honours program at Universiti Teknologi Malaysia (UTM).
 
-* 🌍  I'm based in Batu Pahat
+* 🌍  I'm based in Batu Pahat, Johor
 * ✉️  You can contact me at [tsthong4@gmail.com](mailto:tsthong4@gmail.com)
 * 🧠  I'm learning C++
 
@@ -27,3 +27,5 @@ I am a Year 1 student in the Bachelor of Computer Science (Data Engineering) wit
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TOH1004"><img src="https://github-readme-stats.vercel.app/api?username=TOH1004&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="TOH1004's GitHub stats" /></a>
+
+<a href="http://www.github.com/TOH1004"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TOH1004&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
