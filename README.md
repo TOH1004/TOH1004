@@ -22,6 +22,37 @@ I am a Year 1 student in the Bachelor of Computer Science (Data Engineering) wit
 
 <p align="left"> <a href="https://discord.com/users/sttttttttt_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TOH1004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sheethong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/toh-shee-thong-546539271" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+# UTM-e-Portfolio
+<td width="180%">
+<a href="https://elijah0413.github.io/elijahshe0413.github.io/">E Portfolio</a>
+
+All projects done for Data Engineering year 1 Section 02 will be stored here.🤗
+
+<table>
+<tr>
+
+<td width="20%">
+<a href="[https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECR1013%20Digital%20Logic]">Digital Logic</a>
+
+</td>
+
+<td width="20%">
+<a href="[https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECI1013%20Discrete%20Structure]"> Discrete Structure </a>
+
+
+</td>
+<td width="20%">
+<a href="[https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECP1013%20Technology%20and%20Information%20System] </a>
+</td>
+
+</td>
+<td width="20%">
+<a href="[https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECJ%201013%20Programming%20Technique%20I] </a>
+</td>
+</tr>
+</table>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
