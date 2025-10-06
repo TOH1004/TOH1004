@@ -7,7 +7,6 @@ Data Engineering Student
 I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) with Honours program at Universiti Teknologi Malaysia (UTM).
 
 * 🌍  I'm based in Batu Pahat
-* 🖥️  See my portfolio at [MyPortfolio](http://tsthong4.wixsite.com/portfolio-for-myself)
 * ✉️  You can contact me at [tsthong4@gmail.com](mailto:tsthong4@gmail.com)
 
 ### Skills
