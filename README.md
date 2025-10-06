@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineering Student
 ------------------------
 
-I am a Year 1 student in the Bachelor of Computer Science (Data Engineering) with Honours program at Universiti Teknologi Malaysia (UTM).
+I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) with Honours program at Universiti Teknologi Malaysia (UTM).
 
 * 🌍  I'm based in Batu Pahat
 * 🖥️  See my portfolio at [MyPortfolio](http://tsthong4.wixsite.com/portfolio-for-myself)
