@@ -32,3 +32,44 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 <a href="http://www.github.com/TOH1004"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TOH1004&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TOH1004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOH1004&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+# 📂 Projects
+
+## 🏫 Course Projects
+
+### 📘 Year 2
+
+#### Semester 1
+| Course | Project |
+|------|------|
+| Data Structure & Algorithms | Algorithm Design and Optimization |
+| Database (WBL) | SQL Database Design |
+| Network Communication | System Requirement & Design |
+| System Development Technology (WBL)| Process & Memory Management |
+| Software Engineering (WBL)| Process & Memory Management |
+
+---
+
+### 📘 Year 1
+
+#### Semester 2
+| Course | Project |
+|------|------|
+| Programming Technique II | C++ Programming Exercises |
+| Computer Organization & Architecture | Algorithm & Logic Problems |
+| Probability & Statistical Data Analysis | Logic Circuit Design |
+| Human Computer Interaction | IT System Analysis |
+| System Analysis Design | IT System Analysis |
+
+#### Semester 1
+| Course | Project |
+|------|------|
+| Programming Technique I | Object-Oriented Programming with C++ |
+| Discrete Structure | CPU and Memory System Analysis |
+| Technology and Information System | Data Analysis & Statistical Modeling |
+| Digital Logic | Usability Study (Telegram vs WhatsApp) |
+-
+
+
+
+
