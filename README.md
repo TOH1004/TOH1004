@@ -62,8 +62,12 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 | System Analysis Design | IT System Analysis |
 
 #### Programming Technique II
-A collection of C++ programs focusing on fundamental programming concepts including variables, loops, functions, and problem solving. <br>
-🔗 Project: [C++ Programming Exercises]()
+This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis.
+🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
+
+#### Probability & Statistical Data Analysis
+This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis.
+🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
 
 
 
