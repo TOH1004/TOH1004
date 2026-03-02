@@ -64,12 +64,7 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 #### Semester 1
 | Course | Project |
 |------|------|
-| Programming Technique I | Object-Oriented Programming with C++ |
-| Discrete Structure | CPU and Memory System Analysis |
-| Technology and Information System | Data Analysis & Statistical Modeling |
-| Digital Logic | Usability Study (Telegram vs WhatsApp) |
--
-
-
-
-
+| Programming Technique I | [View the project here](https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECJ%201013%20Programming%20Technique%20I) |
+| Discrete Structure | [View the project here](https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECI1013%20Discrete%20Structure) |
+| Technology and Information System | [View the project here](https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECP1013%20Technology%20and%20Information%20System) |
+| Digital Logic | [View the project here](https://github.com/TOH1004/TOH1004/tree/main/SEM%201/SECR1013%20Digital%20Logic) |
