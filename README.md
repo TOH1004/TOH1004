@@ -62,8 +62,8 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 | System Analysis Design | IT System Analysis |
 
 #### Programming Technique II
-This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis.
-🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
+A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective.
+🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
 
 #### Probability & Statistical Data Analysis
 This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis.
