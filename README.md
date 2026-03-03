@@ -42,8 +42,8 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 #### Semester 1
 
 #### Project Hasta Car Management System
-A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
-🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
+This project aims to redefine the car management system in collaboration with Hasta. <br>
+🔗 Project: [DataATE](https://github.com/TOH1004/DataATE)
 
 #### Data Structure & Algorithms
 A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
