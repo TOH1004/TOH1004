@@ -72,6 +72,9 @@ The comparison of performance for four different computer systems using a combin
 This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis. <br>
 🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
 
+#### Human Computer Interaction
+This project aims to improve the food delivery experience for the UTM community by redesigning a platform that addresses usability issues in existing apps.
+🔗 Project: [EATTT](https://github.com/TOH1004/EATTT)
 
 #### Semester 1
 | Course | Project |
