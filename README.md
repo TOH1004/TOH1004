@@ -73,7 +73,7 @@ This project explores the relationship between sleep patterns, lifestyle, and he
 🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
 
 #### Human Computer Interaction
-This project aims to improve the food delivery experience for the UTM community by redesigning a platform that addresses usability issues in existing apps.
+This project aims to improve the food delivery experience for the UTM community by redesigning a platform that addresses usability issues in existing apps. <br>
 🔗 Project: [EATTT](https://github.com/TOH1004/EATTT)
 
 #### Semester 1
