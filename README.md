@@ -33,26 +33,26 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 
 <a href="https://github.com/TOH1004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOH1004&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-# 📂 Projects
+### 📂 Fascinating Side Projects
 
-## 🏫 Course Projects
+### Zonify
+
+### Ruff
+
+### Ideathon
+
+### System
+
+### 📂 Interesting Academic Projects
 
 ### 📘 Year 2
 
 #### Semester 1
 
-#### Project Hasta Car Management System
-This project aims to redefine the car management system in collaboration with Hasta. <br>
-🔗 Project: [DataATE](https://github.com/TOH1004/DataATE)
-
-#### Data Structure & Algorithms
-A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
-🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
-
-#### Network Communication
-A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
-🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
-
+| Course | Description | Project |
+|------|------|------|
+| Project Hasta Car Management System |This project aims to redefine the car management system in collaboration with Hasta. | [DataATE](https://github.com/TOH1004/DataATE)|
+| Data Structure & Algorithms |DSA Mini Project using C++|[DSA_E-LearningSystem](https://github.com/TOH1004/DSA_E-LearningAssignmentSystem)|
 
 ---
 
@@ -60,21 +60,12 @@ A fast-paced 2D aerial shooter where players control a fighter plane, battling w
 
 #### Semester 2
 
-#### Programming Technique II
-A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
-🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
-
-#### Computer Organization & Architecture
-The comparison of performance for four different computer systems using a combination of professional benchmarking freeware and custom-developed assembly language (ASM) code. <br>
-🔗 Project: [COA_Benchmarking](https://github.com/TOH1004/COA_Benchmarking)
-
-#### Probability & Statistical Data Analysis
-This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis. <br>
-🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
-
-#### Human Computer Interaction
-This project aims to improve the food delivery experience for the UTM community by redesigning a platform that addresses usability issues in existing apps. <br>
-🔗 Project: [EATTT](https://github.com/TOH1004/EATTT)
+| Course | Description | Project |
+|------|------|------|
+| Programming Technique II |A fast-paced top-down aerial shooter where players control a fighter plane against waves of enemies. | [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender) |
+| Computer Organization & Architecture |The combination of professional benchmarking freeware and custom-developed assembly language (ASM) code. |[COA_Benchmarking](https://github.com/TOH1004/COA_Benchmarking)|
+| Probability & Statistical Data Analysis | explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis.| [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)|
+| Human Computer Interaction | aims to improve the food delivery experience for the UTM community |[EATTT](https://github.com/TOH1004/EATTT)|
 
 #### Semester 1
 | Course | Project |
