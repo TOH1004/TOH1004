@@ -40,26 +40,25 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 ### 📘 Year 2
 
 #### Semester 1
-| Course | Project |
-|------|------|
-| Data Structure & Algorithms | Algorithm Design and Optimization |
-| Database (WBL) | SQL Database Design |
-| Network Communication | System Requirement & Design |
-| System Development Technology (WBL)| Process & Memory Management |
-| Software Engineering (WBL)| Process & Memory Management |
+
+#### Project Hasta Car Management System
+A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
+🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
+
+#### Data Structure & Algorithms
+A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
+🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
+
+#### Network Communication
+A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
+🔗 Project: [PT2_SkyDefender](https://github.com/TOH1004/PT2_SkyDefender)
+
 
 ---
 
 ### 📘 Year 1
 
 #### Semester 2
-| Course | Project |
-|------|------|
-| Programming Technique II | C++ Programming Exercises |
-| Computer Organization & Architecture | Algorithm & Logic Problems |
-| Probability & Statistical Data Analysis | Logic Circuit Design |
-| Human Computer Interaction | IT System Analysis |
-| System Analysis Design | IT System Analysis |
 
 #### Programming Technique II
 A fast-paced 2D aerial shooter where players control a fighter plane, battling waves of enemies from a top-down perspective. <br>
@@ -72,7 +71,6 @@ The comparison of performance for four different computer systems using a combin
 #### Probability & Statistical Data Analysis
 This project explores the relationship between sleep patterns, lifestyle, and health conditions through statistical analysis. <br>
 🔗 Project: [PSDA_DatasetAnalysis](https://github.com/TOH1004/PSDA_DatasetAnalysis)
-
 
 
 #### Semester 1
