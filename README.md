@@ -45,7 +45,12 @@ A campus safety application designed to protect students through friend accompan
 🔗: [Implementation](https://github.com/TOH1004/Ruff_CodeNection) <br>
 🏆: 2nd Runner-Up for Campus Management Stack 
 
-### Ideathon
+### SilentSense X Ideathon 2025
+An AI-powered mobile application that helps people to understand emotional cues through real-time analysis. 
+🔗: [Explore our figma here](https://www.figma.com/design/BbyRTz0Ox6S5rgQBb28Qx2/ideathon?node-id=0-1&t=ki09ddfY27RJ7HhF-1)
+🔗: [Explore our executive summary here] (https://docs.google.com/document/d/1Sz_vJe_T8TksT1cVeCXJRCZv3UHk_fBZfajns2ZNoM4/edit?usp=sharing)
+🏆: Finalist Ideathon 2025
+
 ### bit.buddy X UTMxHACKATHON 2025
 An onboarding assistant that helps new hires and managers streamline the onboarding process for a seamless transition. <br>
 🔗: [bit.buddy](https://github.com/TOH1004/bit.buddy) <br>
