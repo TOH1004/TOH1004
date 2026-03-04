@@ -35,32 +35,32 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 
 ---
 
-### 📂 Fascinating Side Projects
+## 📂 Fascinating Side Projects
 
-#### Zonify X KitaHack 2026
+### Zonify X KitaHack 2026
 An AI-powered web platform that transforms unstructured community ideas into structured, actionable early-stage planning proposals. <br>
 🔗:  [Zonify](https://github.com/TOH1004/Zonify)
-
-#### Ruff X CodeNection 2025
+<br> <br>
+### Ruff X CodeNection 2025
 A campus safety application designed to protect students through friend accompaniment, AI support, and a smart SOS system. <br>
 🔗: [Proposal](https://github.com/TOH1004/CodeNection_Ruff) <br>
 🔗: [Implementation](https://github.com/TOH1004/Ruff_CodeNection) <br>
 🏆: 2nd Runner-Up for Campus Management Stack 
-
-#### bit.buddy X UTMxHACKATHON 2025
+<br> <br>
+### bit.buddy X UTMxHACKATHON 2025
 An onboarding assistant that helps new hires and managers streamline the onboarding process for a seamless transition. <br>
 🔗: [bit.buddy](https://github.com/TOH1004/bit.buddy) <br>
 🏆: Finalist UTMxHACKATHON 2025
-
-#### SilentSense X Ideathon 2025
+<br> <br>
+### SilentSense X Ideathon 2025
 An AI-powered mobile application that helps people to understand emotional cues through real-time analysis. <br>
-🔗: [Explore our executive summary here](https://docs.google.com/document/d/1Sz_vJe_T8TksT1cVeCXJRCZv3UHk_fBZfajns2ZNoM4/edit?tab=t.0) <br>
-🔗: [Explore our figma here](https://www.figma.com/design/BbyRTz0Ox6S5rgQBb28Qx2/ideathon?node-id=0-1&t=ki09ddfY27RJ7HhF-1) <br>
+🔗: [Executive Summary](https://docs.google.com/document/d/1Sz_vJe_T8TksT1cVeCXJRCZv3UHk_fBZfajns2ZNoM4/edit?tab=t.0) <br>
+🔗: [Figma Design](https://www.figma.com/design/BbyRTz0Ox6S5rgQBb28Qx2/ideathon?node-id=0-1&t=ki09ddfY27RJ7HhF-1) <br>
 🏆: Finalist Ideathon 2025
 
 --- 
 
-### 📂 Interesting Academic Projects
+## 📂 Interesting Academic Projects
 
 ### 📘 Year 2
 
