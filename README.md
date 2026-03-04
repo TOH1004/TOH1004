@@ -33,6 +33,8 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 
 <a href="https://github.com/TOH1004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOH1004&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+---
+
 ### 📂 Fascinating Side Projects
 
 ### Zonify X KitaHack 2026
@@ -45,16 +47,18 @@ A campus safety application designed to protect students through friend accompan
 🔗: [Implementation](https://github.com/TOH1004/Ruff_CodeNection) <br>
 🏆: 2nd Runner-Up for Campus Management Stack 
 
-### SilentSense X Ideathon 2025
-An AI-powered mobile application that helps people to understand emotional cues through real-time analysis. 
-🔗: [Explore our figma here](https://www.figma.com/design/BbyRTz0Ox6S5rgQBb28Qx2/ideathon?node-id=0-1&t=ki09ddfY27RJ7HhF-1)
-🔗: [Explore our executive summary here] (https://docs.google.com/document/d/1Sz_vJe_T8TksT1cVeCXJRCZv3UHk_fBZfajns2ZNoM4/edit?usp=sharing)
-🏆: Finalist Ideathon 2025
-
 ### bit.buddy X UTMxHACKATHON 2025
 An onboarding assistant that helps new hires and managers streamline the onboarding process for a seamless transition. <br>
 🔗: [bit.buddy](https://github.com/TOH1004/bit.buddy) <br>
 🏆: Finalist UTMxHACKATHON 2025
+
+### SilentSense X Ideathon 2025
+An AI-powered mobile application that helps people to understand emotional cues through real-time analysis. <br>
+🔗: Explore our executive summary here: https://docs.google.com/document/d/1Sz_vJe_T8TksT1cVeCXJRCZv3UHk_fBZfajns2ZNoM4/edit?tab=t.0) <br>
+🔗: [Explore our figma here](https://www.figma.com/design/BbyRTz0Ox6S5rgQBb28Qx2/ideathon?node-id=0-1&t=ki09ddfY27RJ7HhF-1) <br>
+🏆: Finalist Ideathon 2025
+
+--- 
 
 ### 📂 Interesting Academic Projects
 
