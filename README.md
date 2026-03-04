@@ -40,9 +40,10 @@ An AI-powered web platform that transforms unstructured community ideas into str
 🔗:  [Zonify](https://github.com/TOH1004/Zonify)
 
 ### Ruff X CodeNection 2025
-🔗:  
-🏆: 
-
+A campus safety application designed to protect students through friend accompaniment, AI support, and a smart SOS system.
+🔗: [Proposal](https://github.com/TOH1004/CodeNection_Ruff)
+🔗: [Implementation](https://github.com/TOH1004/Ruff_CodeNection)
+🏆: 2nd Runner-Up for Campus Management Stack
 
 ### Ideathon
 
