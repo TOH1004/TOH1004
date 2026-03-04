@@ -37,9 +37,11 @@ I am a Year 2 student in the Bachelor of Computer Science (Data Engineering) wit
 
 ### Zonify X KitaHack 2026
 An AI-powered web platform that transforms unstructured community ideas into structured, actionable early-stage planning proposals. <br>
-View the project here: [Zonify](https://github.com/TOH1004/Zonify)
+🔗:  [Zonify](https://github.com/TOH1004/Zonify)
 
 ### Ruff X CodeNection 2025
+🔗:  
+🏆: 
 
 
 ### Ideathon
