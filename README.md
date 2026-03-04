@@ -46,8 +46,10 @@ A campus safety application designed to protect students through friend accompan
 🏆: 2nd Runner-Up for Campus Management Stack 
 
 ### Ideathon
-
-### System
+### bit.buddy X UTMxHACKATHON 2025
+An onboarding assistant that helps new hires and managers streamline the onboarding process for a seamless transition. <br>
+🔗: [bit.buddy](https://github.com/TOH1004/bit.buddy) <br>
+🏆: Finalist UTMxHACKATHON 2025
 
 ### 📂 Interesting Academic Projects
 
